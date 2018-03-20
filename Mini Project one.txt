@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+ <title>Damon's Class Schedule</title>
+  </head>
+
+  <body>
+<h1>Damon Patterson</h1>
+<h2>2018 Spring class schedule</h2>
+<ol>
+<li>Mrs.Wellman Math</li>
+<li>Mr.Valle P.E</li>
+<li>Mrs.Dennis ELA</li>
+<li>Mrs.Suncire Social studies</li>
+<li>Mrs.Makantosh Science</li>
+<li>Mrs.Jaggers Web designing</li>
+</ol>
+My favorite class would be web designing which is the one im most interested in since were doing coding. My Dad does lots of 
+coding and being abe to talk about html and gifs is fun. Its nice to ask my sisters questions that i know they dont know.
+But explaining it for them after.
+
+
+  </body>
+</html>
